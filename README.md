@@ -2,7 +2,7 @@
 
 <h2> 🌎 &nbsp; Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> <br>
 Welcome, nice to meet you, my name is Matheus Pesqueira
-</h2> <br>
+</h2> 
 
   ###  💬 Sobre mim:  
 
